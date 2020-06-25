@@ -32,3 +32,4 @@ Please type in the math operation you would like to complete:
 
 # Call calculate() outside of the function
 calculate()
+
